@@ -92,11 +92,11 @@ EFFECTIVE_RADIUS = 74
 
 当游戏画面等比例缩放时，可以按游戏画面宽度同步缩放：
 
-\[
+$$
 R_{\text{new}}
 \approx
 74 \times \frac{W_{\text{new}}}{2048}.
-\]
+$$
 
 参考值如下：
 
